@@ -25,8 +25,7 @@
       <url>artifactregistry://asia-south1-maven.pkg.dev/fsspgaoolication-dev/vdi-dev-recon-maven-repo</url>
     </repository>
   </distributionManagement>
-
-  <repositories>
+ <repositories>
     <repository>
       <id>artifact-registry</id>
       <url>artifactregistry://asia-south1-maven.pkg.dev/fsspgaoolication-dev/vdi-dev-recon-maven-repo</url>
